@@ -1,0 +1,10 @@
+C:\Users\ferha\Desktop\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe.config
+C:\Users\ferha\Desktop\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe
+C:\Users\ferha\Desktop\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.pdb
+C:\Users\ferha\Desktop\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.AssemblyReference.cache
+C:\Users\ferha\Desktop\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Form1.resources
+C:\Users\ferha\Desktop\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Properties.Resources.resources
+C:\Users\ferha\Desktop\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.GenerateResource.cache
+C:\Users\ferha\Desktop\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ferha\Desktop\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.exe
+C:\Users\ferha\Desktop\AdamAsmacaOyunu-WindowsFormsApp-master\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.pdb
