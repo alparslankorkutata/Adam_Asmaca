@@ -1,1 +1,1 @@
-# Adam_Asmaca
+# Adam_Asmaca oyunu c# ile kodlandı.
